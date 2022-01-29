@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ClassLibraryCar/1.0.0": {
+        "dependencies": {
+          "ClassLibraryEngine": "1.0.0.0",
+          "ClassLibraryLight": "1.0.0.0"
+        },
+        "runtime": {
+          "ClassLibraryCar.dll": {}
+        }
+      },
+      "ClassLibraryEngine/1.0.0.0": {
+        "runtime": {
+          "ClassLibraryEngine.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ClassLibraryLight/1.0.0.0": {
+        "runtime": {
+          "ClassLibraryLight.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibraryCar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryEngine/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryLight/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

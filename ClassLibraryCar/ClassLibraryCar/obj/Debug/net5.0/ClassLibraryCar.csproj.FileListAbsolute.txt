@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\bin\Debug\net5.0\ClassLibraryCar.deps.json
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\bin\Debug\net5.0\ClassLibraryCar.dll
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\bin\Debug\net5.0\ref\ClassLibraryCar.dll
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\bin\Debug\net5.0\ClassLibraryCar.pdb
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\bin\Debug\net5.0\ClassLibraryEngine.dll
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\bin\Debug\net5.0\ClassLibraryLight.dll
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\bin\Debug\net5.0\ClassLibraryEngine.pdb
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\bin\Debug\net5.0\ClassLibraryLight.pdb
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\obj\Debug\net5.0\ClassLibraryCar.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\obj\Debug\net5.0\ClassLibraryCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\obj\Debug\net5.0\ClassLibraryCar.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\obj\Debug\net5.0\ClassLibraryCar.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\obj\Debug\net5.0\ClassLibraryCar.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\obj\Debug\net5.0\ClassLibraryCar.csproj.CopyComplete
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\obj\Debug\net5.0\ClassLibraryCar.dll
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\obj\Debug\net5.0\ref\ClassLibraryCar.dll
+C:\Users\ASUS\source\repos\ClassLibraryCar\ClassLibraryCar\obj\Debug\net5.0\ClassLibraryCar.pdb

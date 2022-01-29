@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\ClassLibraryLight\ClassLibraryLight\bin\Debug\net5.0\ClassLibraryLight.deps.json
+C:\Users\ASUS\source\repos\ClassLibraryLight\ClassLibraryLight\bin\Debug\net5.0\ClassLibraryLight.dll
+C:\Users\ASUS\source\repos\ClassLibraryLight\ClassLibraryLight\bin\Debug\net5.0\ref\ClassLibraryLight.dll
+C:\Users\ASUS\source\repos\ClassLibraryLight\ClassLibraryLight\bin\Debug\net5.0\ClassLibraryLight.pdb
+C:\Users\ASUS\source\repos\ClassLibraryLight\ClassLibraryLight\obj\Debug\net5.0\ClassLibraryLight.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ClassLibraryLight\ClassLibraryLight\obj\Debug\net5.0\ClassLibraryLight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ClassLibraryLight\ClassLibraryLight\obj\Debug\net5.0\ClassLibraryLight.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryLight\ClassLibraryLight\obj\Debug\net5.0\ClassLibraryLight.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ClassLibraryLight\ClassLibraryLight\obj\Debug\net5.0\ClassLibraryLight.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryLight\ClassLibraryLight\obj\Debug\net5.0\ClassLibraryLight.dll
+C:\Users\ASUS\source\repos\ClassLibraryLight\ClassLibraryLight\obj\Debug\net5.0\ref\ClassLibraryLight.dll
+C:\Users\ASUS\source\repos\ClassLibraryLight\ClassLibraryLight\obj\Debug\net5.0\ClassLibraryLight.pdb

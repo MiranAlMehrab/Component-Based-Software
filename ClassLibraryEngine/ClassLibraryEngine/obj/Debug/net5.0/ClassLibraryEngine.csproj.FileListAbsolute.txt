@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\ClassLibraryEngine\ClassLibraryEngine\bin\Debug\net5.0\ClassLibraryEngine.deps.json
+C:\Users\ASUS\source\repos\ClassLibraryEngine\ClassLibraryEngine\bin\Debug\net5.0\ClassLibraryEngine.dll
+C:\Users\ASUS\source\repos\ClassLibraryEngine\ClassLibraryEngine\bin\Debug\net5.0\ref\ClassLibraryEngine.dll
+C:\Users\ASUS\source\repos\ClassLibraryEngine\ClassLibraryEngine\bin\Debug\net5.0\ClassLibraryEngine.pdb
+C:\Users\ASUS\source\repos\ClassLibraryEngine\ClassLibraryEngine\obj\Debug\net5.0\ClassLibraryEngine.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ClassLibraryEngine\ClassLibraryEngine\obj\Debug\net5.0\ClassLibraryEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ClassLibraryEngine\ClassLibraryEngine\obj\Debug\net5.0\ClassLibraryEngine.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryEngine\ClassLibraryEngine\obj\Debug\net5.0\ClassLibraryEngine.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ClassLibraryEngine\ClassLibraryEngine\obj\Debug\net5.0\ClassLibraryEngine.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryEngine\ClassLibraryEngine\obj\Debug\net5.0\ClassLibraryEngine.dll
+C:\Users\ASUS\source\repos\ClassLibraryEngine\ClassLibraryEngine\obj\Debug\net5.0\ref\ClassLibraryEngine.dll
+C:\Users\ASUS\source\repos\ClassLibraryEngine\ClassLibraryEngine\obj\Debug\net5.0\ClassLibraryEngine.pdb
